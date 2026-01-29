@@ -1,0 +1,1 @@
+This is an exercise for The Odin Poroject, its a rock paper scissors game that will eventyally have logic and a GUI!
